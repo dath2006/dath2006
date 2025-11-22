@@ -28,7 +28,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=fff)
-![LangChain.js](https://img.shields.io/badge/-LangChain.js-efefef?logo=data:image/svg+xml;base64,&logoColor=000)
+![LangChain.js](https://cdn.jsdelivr.net/npm/@lobehub/icons/dist/langchain/langchain.svg)
 ![n8n](https://img.shields.io/badge/-n8n-fc7753?logo=n8n&logoColor=fff)
 
 ---
